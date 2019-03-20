@@ -8,7 +8,7 @@ Assuming you have Testem globally installed (`npm install -g testem`), simply ru
 
 ### The Queue ADT
 
-You may **not** use JavaScript's built in `push`/`pop`/`shift`/`unshift` functions, nor any other `Array.prototype` methods, nor `.length`. You may use an Object or Array to store your data and keep `head` and `tail` pointers (variables) that change when functions like `enqueue` and `dequeue` are called.
+Avoid using JavaScript's built in `push`/`pop`/`shift`/`unshift` functions, nor any other `Array.prototype` methods, nor `.length`. You may use an Object or Array to store your data and keep `head` and `tail` pointers (variables) that change when functions like `enqueue` and `dequeue` are called.
 
 Since a Queue is an ADT, it has more than one DS which can be used to solve it. When you're done with your Linked List, try returning to this suite and using your Linked List class (copy it over) to implement the Queue.
 
