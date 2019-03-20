@@ -1,0 +1,13 @@
+{
+  "name": "data-structures",
+  "version": "1.0.0",
+  "description": "learn abstract data types and data structures through implementation and simulation",
+  "scripts": {
+    "test": "testem"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ianallen/data-structures.git"
+  },
+  "author": "Ian Allen <ian.allen3gmail.com>"
+}
