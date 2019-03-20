@@ -14,9 +14,7 @@ Since a Queue is an ADT, it has more than one DS which can be used to solve it. 
 
 ### The Linked List DS
 
-The LL operations are far easier to understand and account for if you diagram out the possible cases step-by-step with pencil and paper.
-
-Compare the LL to the classic contiguous fixed Array (which does not exist in ES5 JavaScript). What are the pros and cons of each, and why?
+A simple implementation of a doubly linked list
 
 ### Binary Search Tree DS
 
