@@ -1,10 +1,6 @@
-# Test-first Data Structures
+# Data Structures
 
 ---
-
-Abstract Data Types (ADTs) are purely conceptual entities comprising information and allowed operations on that information. Data Structures (DSs) are actual programmatic solutions to implement an ADT. Both are very important to computer science in general and also a great way to better understand Object-Oriented Programming (OOP).
-
-In this workshop, we are going to be writing the JavaScript implementations of some different ADTs and DSs, including Queues, Linked Lists, Hash Tables and Binary Search Trees.
 
 ## Running
 
