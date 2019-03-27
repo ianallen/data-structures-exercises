@@ -9,5 +9,8 @@
     "type": "git",
     "url": "git+https://github.com/ianallen/data-structures-exercises.git"
   },
-  "author": "Ian Allen <ian.allen3gmail.com>"
+  "author": "Ian Allen <ian.allen3gmail.com>",
+  "dependencies": {
+    "testem": "^2.14.0"
+  }
 }

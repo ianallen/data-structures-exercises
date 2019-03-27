@@ -3,6 +3,7 @@ describe('A linked list', function() {
 
   beforeEach(function() {
     linkedList = new LinkedList();
+   
   });
 
   it('has methods `addToTail`, `removeHead`, and `search` (and maybe others?)', function() {
